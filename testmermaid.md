@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 
     A(["1. Spring Boot Application Starts"]) --> B["2. Component Scanning (@ComponentScan)"]
@@ -13,3 +14,5 @@ flowchart TD
     %% DI Arrows
     F -->|needs OrderService| G
     G -->|needs OrderRepository| H
+```
+
