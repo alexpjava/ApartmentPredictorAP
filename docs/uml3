@@ -1,4 +1,4 @@
-```mermaid
+´´´mermaid
 classDiagram
     direction LR
 
@@ -67,4 +67,4 @@ classDiagram
         - Reviewer reviewer
         - Apartment apartment
     }
-```
+´´´
